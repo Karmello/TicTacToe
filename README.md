@@ -3,7 +3,7 @@
 </p>
 <br />
 <img
-  src="https://github.com/Karmello/TicTacToe/blob/master/screenshots/6.png"
+  src="https://github.com/Karmello/TicTacToe/blob/master/screenshots/6.png?raw=true"
   alt="EightQueens"
   width="700px"
 />
