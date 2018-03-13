@@ -4,6 +4,6 @@
 <br />
 <img
   src="https://github.com/Karmello/TicTacToe/blob/master/screenshots/6.png?raw=true"
-  alt="EightQueens"
+  alt="TicTacToe"
   width="700px"
 />
